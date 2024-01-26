@@ -1,0 +1,29 @@
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+
+.productParent{
+    display: flex;
+    justify-content: center;
+   flex-direction: row;
+   margin-bottom: 2rem;
+}
+.productItem{
+    display: flex;
+    margin: 0.5rem 0 0 0.5rem;
+}
+
+.formChild{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.title{
+    margin-top: 1rem;
+}
