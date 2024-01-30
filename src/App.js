@@ -1,3 +1,4 @@
+import Cart from './components/Cart/Cart';
 import Header from './components/Header/Header';
 import AddProduct from './components/Product/AddProduct';
 import Product from './components/Product/Products';

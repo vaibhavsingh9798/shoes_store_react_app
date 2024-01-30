@@ -2,7 +2,7 @@ import { useState } from "react";
 import {Form,Container,Row,Col} from 'react-bootstrap'
 import styles from './Product.module.css'
 const AddProduct = () =>{
-    let URL = 'https://crudcrud.com/api/a258197e8e0c4c60a78c5c64745cdbdd'
+    let URL = 'https://crudcrud.com/api/cdff5eef65af452a9cc8681a782df83d'
 
     const [product,setProduct] = useState({name:'',desc:'',size:'',price:0})
 
